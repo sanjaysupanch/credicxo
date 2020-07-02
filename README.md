@@ -1,0 +1,2 @@
+# credicxo
+REST API OF BANK DATA
